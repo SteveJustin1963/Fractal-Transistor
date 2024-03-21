@@ -48,3 +48,19 @@ Applying a micro Chladni plate directly to make a single fractansistor might be 
 3. **Microfluidic Channels:** Chladni plates can be integrated with microfluidic channels. Imagine a microfluidic channel embedded within a thin film. Vibrating the plate could create microfluidic pathways with fractal-like geometries.  These channels could then be filled with specific materials to create functional components within a transistor design.
 
 Overall, a micro Chladni plate might not directly translate to a single fractansistor, but it can be a valuable tool for researchers to explore new materials, patterning techniques, and gain inspiration for designing future fractansistors. 
+
+## properties
+
+Fractan transistors, by their very nature of incorporating fractal shapes into their design, hold the potential for some truly amazing characteristics. Here are a few possibilities:
+
+1. **Ultra-low Power Consumption:** Fractal patterns, by definition, can create highly convoluted structures with a large surface area packed into a smaller space. This could lead to transistors that operate with significantly lower power compared to conventional transistors. This is because leakage currents, which can waste power in traditional transistors, would be minimized due to the reduced cross-sectional area for current flow.
+
+2. **Highly Sensitive Detection:** The intricate pathways within a fractal structure could act like nanoscale antennas, making the transistor hypersensitive to specific frequencies or even light waves. This could be revolutionary for applications in medical diagnostics, environmental monitoring, or ultrasensitive electronic noses and tongues for detecting trace amounts of chemicals.
+
+3. **Multiple Functionality:** Fractal designs can be engineered to exhibit multiple conduction paths within the same transistor. This could allow a single fractansistor to perform logic operations like AND, OR, or even more complex functions, potentially reducing the number of transistors needed in a circuit.
+
+4. **Reconfigurable Properties:** Imagine a fractansistor where the electrical characteristics can be altered by external stimuli like light or electric fields. This could lead to transistors that can dynamically adjust their behavior based on the environment, creating a new level of adaptability in electronic circuits.
+
+5. **Quantum Effects at Room Temperature:** Fractal structures might enhance quantum mechanical tunneling effects even at room temperature. This could lead to entirely new transistor operating principles that overcome the limitations of classical physics, paving the way for ultra-dense and ultra-fast information processing.
+
+It's important to remember that these are theoretical possibilities, and significant research hurdles need to be overcome before they become reality. However, the potential for such groundbreaking characteristics makes fractansistors an exciting area of exploration for the future of electronics.
