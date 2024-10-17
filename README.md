@@ -1,6 +1,35 @@
 ### Designing a Conceptual Device Using a "Fract-sistor"
 
-The conceptual design of a fractansistor, a theoretical transistor incorporating fractal shapes, aims to achieve ultra-low power consumption, highly sensitive detection, and multiple functionalities. The device structure starts with materials like Silicon Carbide (SiC) or Transition Metal Dichalcogenides (TMDCs) such as Molybdenum Disulfide (MoS2), which provide a base for fractal pattern formation. Fractally growing dendrimers or metal oxides (e.g., TiO2) can be deposited using Atomic Layer Deposition (ALD) or Electron Beam Lithography (EBL) to create nanoscale, self-similar fractal structures. Techniques like electrochemical deposition or a micro Chladni plate could further pattern the fractal geometries, providing pathways for charge and spin currents. The design also integrates a spintronics layer, using materials such as graphene to enhance electron spin control. The fractansistor's layout includes a gate to regulate charge flow, fractal-shaped drain/source terminals for multiple conduction paths, and a fractal geometry channel to minimize leakage currents, achieving ultra-low power operation. The fabrication process involves growing the base material via Chemical Vapor Deposition (CVD), fractal patterning through EBL, ALD, or Chladni plates, and integrating the spintronics layer. The fractansistor’s properties include ultra-low power consumption, hypersensitivity to environmental stimuli, reconfigurability based on external inputs, and potential quantum effects at room temperature. This could make fractansistors suitable for applications in ultra-sensitive sensors, low-power electronics, quantum computing, and reconfigurable circuits. Advanced fabrication techniques and materials offer future possibilities for miniaturization and exploring room-temperature quantum properties, positioning fractansistors as a promising area for next-generation electronics.
+- **Demonstration**: A device induces controlled, reversible transitions in electron scattering dynamics, shifting from regular to chaotic motion of electrical current.
+
+- **Device Structure**: 
+  - Gate-defined semiconductor cavity.
+  - Shape evolves from square to 'Sinai' geometry.
+
+- **Fractal Behavior**: 
+  - Remarkable fractal patterns emerge in device conductance at low temperatures.
+  - First example of a man-made system where fractals can be introduced or removed controllably.
+
+- **Electron Scattering**: 
+  - Transition between regular and chaotic electron motion is achieved through cavity shape modulation.
+
+- **Classical Simulations**: 
+  - Simulations determine electron paths associated with conductance at various scales during the transition.
+
+- **Fractansistor Integration**:
+  - Fractal structures in the fractansistor could exhibit similar controllable transitions between regular and chaotic current motion.
+  - Combining fractal patterning techniques with this scattering device concept could enhance control over charge and spin currents.
+
+- **Fabrication**: 
+  - Fractansistor uses techniques like Electron Beam Lithography (EBL) and Atomic Layer Deposition (ALD) to create nanoscale fractal geometries, similar to the cavity shaping in the scattering device.
+
+- **Applications**:
+  - Ultra-sensitive sensors, low-power electronics, quantum computing, reconfigurable circuits, and chaotic control in electron dynamics.
+
+- **Potential**:
+  - Controllable fractal introduction/removal.
+  - Room-temperature quantum effects and chaotic dynamics.
+  - Next-generation electronic devices with enhanced reconfigurability and sensitivity.
 
 ### snow crystal flake patterns 
 why not make a fractansistor like snowflakes
@@ -14,3 +43,5 @@ why not make a fractansistor like snowflakes
 - https://en.wikipedia.org/wiki/Ernst_Chladni#Chladni_figures
 
 
+### ref
+- https://en.wikipedia.org/wiki/Yakov_Sinai
