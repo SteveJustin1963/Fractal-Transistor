@@ -45,3 +45,5 @@ why not make a fractansistor like snowflakes
 
 ### ref
 - https://en.wikipedia.org/wiki/Yakov_Sinai
+- https://blogs.uoregon.edu/richardtaylor/2016/02/03/fractals-in-nanoelectronics-retinal-implants-and-solar-cells/
+- 
