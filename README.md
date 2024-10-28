@@ -1,3 +1,10 @@
+The science of Chladni geometry inspired this conceptual project
+
+![image](https://github.com/user-attachments/assets/5e1ea853-de17-4a46-afa3-9560bec836f7)
+
+
+https://github.com/SteveJustin1963/Chladni
+
 ### Designing a Conceptual Device Using a "Fract-sistor"
 
 - **Demonstration**: A device induces controlled, reversible transitions in electron scattering dynamics, shifting from regular to chaotic motion of electrical current.
@@ -31,6 +38,11 @@
   - Room-temperature quantum effects and chaotic dynamics.
   - Next-generation electronic devices with enhanced reconfigurability and sensitivity.
 
+
+
+
+
+
 ### snow crystal flake patterns 
 why not make a fractansistor like snowflakes
 
@@ -38,12 +50,13 @@ why not make a fractansistor like snowflakes
 - https://mathematica.stackexchange.com/questions/39361/how-to-generate-a-random-snowflake
 - 
 
-### Chladni patterns
+ 
 
-- https://en.wikipedia.org/wiki/Ernst_Chladni#Chladni_figures
+
 
 
 ### ref
+- https://en.wikipedia.org/wiki/Ernst_Chladni#Chladni_figures
 - https://en.wikipedia.org/wiki/Yakov_Sinai
 - https://blogs.uoregon.edu/richardtaylor/2016/02/03/fractals-in-nanoelectronics-retinal-implants-and-solar-cells/
 - 
